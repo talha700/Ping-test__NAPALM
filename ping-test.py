@@ -4,7 +4,7 @@ import time
 
 
 #Give here the filename with one IP on each line for ping test 
-FILE_FOR_TEST = "  "
+FILE_FOR_TEST = ""
 
 
 driver = get_network_driver("ios")
